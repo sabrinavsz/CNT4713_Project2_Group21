@@ -8,6 +8,8 @@ Sabrina Vasquez - 6443277
 
 Carlos Velazquez - 6566016
 
+Gabriel Somek - 6150276
+
 ## Language: 
 
 Python3
